@@ -77,4 +77,10 @@ Os detalhes de cada caso estão em [matheusedson.com/blog](https://matheusedson.
 
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusEdson/MatheusEdson/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusEdson/MatheusEdson/output/snake-light.svg" />
+  <img alt="Cobrinha comendo o mapa de contribuições" src="https://raw.githubusercontent.com/MatheusEdson/MatheusEdson/output/snake-dark.svg" width="100%" />
+</picture>
+
 <p align="center"><sub><a href="https://matheusedson.com">matheusedson.com</a> · Uberlândia, MG</sub></p>
